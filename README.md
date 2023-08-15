@@ -10,4 +10,5 @@ cargo run
 ```
 
 Press Space to restart with a random line segment
+
 Press Up to increase fractal resolution
